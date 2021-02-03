@@ -36,8 +36,6 @@ print()
 print('*****  start section 3 - edit/append dictionary ********')
 print()
 
-phonebook['Chris] = '555-9876'
-
 #58 minutes 
 
 print()
